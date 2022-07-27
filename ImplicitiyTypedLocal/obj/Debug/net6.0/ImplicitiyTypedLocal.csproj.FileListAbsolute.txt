@@ -1,0 +1,15 @@
+D:\C#\Data Types\ImplicitiyTypedLocal\bin\Debug\net6.0\ImplicitiyTypedLocal.exe
+D:\C#\Data Types\ImplicitiyTypedLocal\bin\Debug\net6.0\ImplicitiyTypedLocal.deps.json
+D:\C#\Data Types\ImplicitiyTypedLocal\bin\Debug\net6.0\ImplicitiyTypedLocal.runtimeconfig.json
+D:\C#\Data Types\ImplicitiyTypedLocal\bin\Debug\net6.0\ImplicitiyTypedLocal.dll
+D:\C#\Data Types\ImplicitiyTypedLocal\bin\Debug\net6.0\ImplicitiyTypedLocal.pdb
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.csproj.AssemblyReference.cache
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.AssemblyInfoInputs.cache
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.AssemblyInfo.cs
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.csproj.CoreCompileInputs.cache
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.dll
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\refint\ImplicitiyTypedLocal.dll
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.pdb
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ImplicitiyTypedLocal.genruntimeconfig.cache
+D:\C#\Data Types\ImplicitiyTypedLocal\obj\Debug\net6.0\ref\ImplicitiyTypedLocal.dll

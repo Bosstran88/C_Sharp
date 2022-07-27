@@ -1,0 +1,15 @@
+D:\C#\Data Types\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+D:\C#\Data Types\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+D:\C#\Data Types\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+D:\C#\Data Types\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+D:\C#\Data Types\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+D:\C#\Data Types\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll

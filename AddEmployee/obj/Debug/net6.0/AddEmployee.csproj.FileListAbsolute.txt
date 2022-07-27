@@ -1,0 +1,15 @@
+D:\C#\Data Types\AddEmployee\bin\Debug\net6.0\AddEmployee.exe
+D:\C#\Data Types\AddEmployee\bin\Debug\net6.0\AddEmployee.deps.json
+D:\C#\Data Types\AddEmployee\bin\Debug\net6.0\AddEmployee.runtimeconfig.json
+D:\C#\Data Types\AddEmployee\bin\Debug\net6.0\AddEmployee.dll
+D:\C#\Data Types\AddEmployee\bin\Debug\net6.0\AddEmployee.pdb
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.csproj.AssemblyReference.cache
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.AssemblyInfoInputs.cache
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.AssemblyInfo.cs
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.csproj.CoreCompileInputs.cache
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.dll
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\refint\AddEmployee.dll
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.pdb
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\AddEmployee.genruntimeconfig.cache
+D:\C#\Data Types\AddEmployee\obj\Debug\net6.0\ref\AddEmployee.dll
