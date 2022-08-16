@@ -1,0 +1,15 @@
+D:\C#\Polymorphism\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+D:\C#\Polymorphism\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+D:\C#\Polymorphism\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+D:\C#\Polymorphism\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+D:\C#\Polymorphism\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+D:\C#\Polymorphism\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll
