@@ -1,0 +1,15 @@
+D:\C#\Polymorphism\GeometricObject\bin\Debug\net6.0\GeometricObject.exe
+D:\C#\Polymorphism\GeometricObject\bin\Debug\net6.0\GeometricObject.deps.json
+D:\C#\Polymorphism\GeometricObject\bin\Debug\net6.0\GeometricObject.runtimeconfig.json
+D:\C#\Polymorphism\GeometricObject\bin\Debug\net6.0\GeometricObject.dll
+D:\C#\Polymorphism\GeometricObject\bin\Debug\net6.0\GeometricObject.pdb
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.AssemblyReference.cache
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfoInputs.cache
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfo.cs
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.CoreCompileInputs.cache
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.dll
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\refint\GeometricObject.dll
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.pdb
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\GeometricObject.genruntimeconfig.cache
+D:\C#\Polymorphism\GeometricObject\obj\Debug\net6.0\ref\GeometricObject.dll
