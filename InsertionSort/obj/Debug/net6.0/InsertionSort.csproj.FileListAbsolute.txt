@@ -1,0 +1,15 @@
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.AssemblyReference.cache
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\C#\Polymorphism\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+D:\C#\Polymorphism\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+D:\C#\Polymorphism\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+D:\C#\Polymorphism\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+D:\C#\Polymorphism\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+D:\C#\Polymorphism\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll
