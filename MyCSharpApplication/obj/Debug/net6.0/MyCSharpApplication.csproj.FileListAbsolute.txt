@@ -1,0 +1,15 @@
+D:\C#\MyCSharpApplication\MyCSharpApplication\bin\Debug\net6.0\MyCSharpApplication.exe
+D:\C#\MyCSharpApplication\MyCSharpApplication\bin\Debug\net6.0\MyCSharpApplication.deps.json
+D:\C#\MyCSharpApplication\MyCSharpApplication\bin\Debug\net6.0\MyCSharpApplication.runtimeconfig.json
+D:\C#\MyCSharpApplication\MyCSharpApplication\bin\Debug\net6.0\MyCSharpApplication.dll
+D:\C#\MyCSharpApplication\MyCSharpApplication\bin\Debug\net6.0\MyCSharpApplication.pdb
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.csproj.AssemblyReference.cache
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.AssemblyInfoInputs.cache
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.AssemblyInfo.cs
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.csproj.CoreCompileInputs.cache
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.dll
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\refint\MyCSharpApplication.dll
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.pdb
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\MyCSharpApplication.genruntimeconfig.cache
+D:\C#\MyCSharpApplication\MyCSharpApplication\obj\Debug\net6.0\ref\MyCSharpApplication.dll
