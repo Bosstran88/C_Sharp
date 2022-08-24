@@ -1,0 +1,15 @@
+D:\C#\MyCSharpApplication\Customer\bin\Debug\net6.0\Customer.exe
+D:\C#\MyCSharpApplication\Customer\bin\Debug\net6.0\Customer.deps.json
+D:\C#\MyCSharpApplication\Customer\bin\Debug\net6.0\Customer.runtimeconfig.json
+D:\C#\MyCSharpApplication\Customer\bin\Debug\net6.0\Customer.dll
+D:\C#\MyCSharpApplication\Customer\bin\Debug\net6.0\Customer.pdb
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.csproj.AssemblyReference.cache
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.AssemblyInfoInputs.cache
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.AssemblyInfo.cs
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.csproj.CoreCompileInputs.cache
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.dll
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\refint\Customer.dll
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.pdb
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\Customer.genruntimeconfig.cache
+D:\C#\MyCSharpApplication\Customer\obj\Debug\net6.0\ref\Customer.dll
