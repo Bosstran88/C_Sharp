@@ -1,0 +1,15 @@
+D:\C#\MyCSharpApplication\Lession4\bin\Debug\net6.0\Lession4.exe
+D:\C#\MyCSharpApplication\Lession4\bin\Debug\net6.0\Lession4.deps.json
+D:\C#\MyCSharpApplication\Lession4\bin\Debug\net6.0\Lession4.runtimeconfig.json
+D:\C#\MyCSharpApplication\Lession4\bin\Debug\net6.0\Lession4.dll
+D:\C#\MyCSharpApplication\Lession4\bin\Debug\net6.0\Lession4.pdb
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.csproj.AssemblyReference.cache
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.AssemblyInfoInputs.cache
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.AssemblyInfo.cs
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.csproj.CoreCompileInputs.cache
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.dll
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\refint\Lession4.dll
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.pdb
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\Lession4.genruntimeconfig.cache
+D:\C#\MyCSharpApplication\Lession4\obj\Debug\net6.0\ref\Lession4.dll
