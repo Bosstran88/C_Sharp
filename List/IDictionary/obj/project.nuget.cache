@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zpXEx4ihZc30VGSFos+VU3HTXQC/8+ziJLegcVUuEXRUkyje3ujCnixSOUT050BINVqOUHsuw4JYZenMwTB6g==",
+  "success": false,
+  "projectFilePath": "D:\\C#\\List\\IDictionary\\IDictionary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios"
+    }
+  ]
+}

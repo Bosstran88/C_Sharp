@@ -1,0 +1,15 @@
+D:\C#\List\HashtableTest\bin\Debug\net6.0\HashtableTest.exe
+D:\C#\List\HashtableTest\bin\Debug\net6.0\HashtableTest.deps.json
+D:\C#\List\HashtableTest\bin\Debug\net6.0\HashtableTest.runtimeconfig.json
+D:\C#\List\HashtableTest\bin\Debug\net6.0\HashtableTest.dll
+D:\C#\List\HashtableTest\bin\Debug\net6.0\HashtableTest.pdb
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.AssemblyReference.cache
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfoInputs.cache
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfo.cs
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.CoreCompileInputs.cache
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.dll
+D:\C#\List\HashtableTest\obj\Debug\net6.0\refint\HashtableTest.dll
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.pdb
+D:\C#\List\HashtableTest\obj\Debug\net6.0\HashtableTest.genruntimeconfig.cache
+D:\C#\List\HashtableTest\obj\Debug\net6.0\ref\HashtableTest.dll

@@ -1,0 +1,15 @@
+D:\C#\List\IDictionary\bin\Debug\net6.0\IDictionary.exe
+D:\C#\List\IDictionary\bin\Debug\net6.0\IDictionary.deps.json
+D:\C#\List\IDictionary\bin\Debug\net6.0\IDictionary.runtimeconfig.json
+D:\C#\List\IDictionary\bin\Debug\net6.0\IDictionary.dll
+D:\C#\List\IDictionary\bin\Debug\net6.0\IDictionary.pdb
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.csproj.AssemblyReference.cache
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.AssemblyInfoInputs.cache
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.AssemblyInfo.cs
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.csproj.CoreCompileInputs.cache
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.dll
+D:\C#\List\IDictionary\obj\Debug\net6.0\refint\IDictionary.dll
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.pdb
+D:\C#\List\IDictionary\obj\Debug\net6.0\IDictionary.genruntimeconfig.cache
+D:\C#\List\IDictionary\obj\Debug\net6.0\ref\IDictionary.dll
